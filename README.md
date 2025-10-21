@@ -3,16 +3,19 @@
 --->  
 
 <h1 align="center"> 👋 </h1>
-<div align="center">
-  <img src="https://github.com/Ileriayo/ileriayo/blob/master/images/header.gif" alt="header"/>
+<div align="center" style="background-color:yellow;color:white">
+  <h2> Hi, I'm Neelakantan</h2>
+  <h4>Technical Lead,  AI-Driven Solutions</h4>
+  <h3>MERN Stack | AWS | Coud & AI | DevOps</h3>
+  <!-- <img src="https://github.com/Ileriayo/ileriayo/blob/master/images/header.gif" alt="header"/> -->
 </div>
 <!-- <p align="center"> (Open for Hiring)</p> -->
 
 <h2> 👨‍💻 Who Am I</h2>
 <p align="center">
-  <samp>Hi, I'm Neelakantan — Technical Lead | Full-Stack | AI-Driven Solutions
+  <samp>
 
-I’m a Technical Lead with 9+ years of experience architecting and delivering scalable, AI-powered full-stack applications. I specialize in the MERN stack, cloud-native architectures (AWS), and AI agent integrations — turning complex business problems into simple, robust, and intelligent systems.
+I’m a Technical Lead with 8+ years of experience architecting and delivering scalable, AI-powered full-stack applications. I specialize in the MERN stack, cloud-native architectures (AWS), and AI agent integrations — turning complex business problems into simple, robust, and intelligent systems.
 
 My work spans shipping, healthcare, and edtech, where I’ve led engineering teams, designed resilient system architectures, and delivered products that scale with performance and precision.
 
