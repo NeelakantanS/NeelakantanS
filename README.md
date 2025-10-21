@@ -6,9 +6,9 @@
 <div align="center">
   <img src="https://github.com/Ileriayo/ileriayo/blob/master/images/header.gif" alt="header"/>
 </div>
-<p align="center"> (Open for Hiring)</p>
+<!-- <p align="center"> (Open for Hiring)</p> -->
 
-<h2 align="center"> 👨‍💻 Who Am I</h2>
+<h2> 👨‍💻 Who Am I</h2>
 <p align="center">
   <samp>Hi, I'm Neelakantan — Technical Lead | Full-Stack | AI-Driven Solutions
 
@@ -31,13 +31,13 @@ Always open to collaborating on meaningful projects that push boundaries in AI, 
 
 <hr>
 
-<h2 align="center"> 🔭 Tools of Trade</h2>
-<p align="center">
+<h2> 🔭 Skill Sets</h2>
+<p>
   <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" />&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/react%20-%2300D9FF.svg?&style=for-the-badge&logo=react&logoColor=white" />&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/tailwind-css%20-%231572B6.svg?&style=for-the-badge&logo=tailwind-css&logoColor=white" />&nbsp;&nbsp;
 </p>
-<p align="center">TailwindCSS, Python, Docker, Kubernetes, Rancher, TravisCI, Git, Github, Bitbucket, Apache, Nginx, Vagrant, Ansible, Jenkins, Azure.</p>
+<p>TailwindCSS, Python, Docker, Kubernetes, Rancher, TravisCI, Git, Github, Bitbucket, Apache, Nginx, Vagrant, Ansible, Jenkins, Azure.</p>
 
 <hr>
 
@@ -49,8 +49,8 @@ Always open to collaborating on meaningful projects that push boundaries in AI, 
 
 <hr> -->
 
-<h2  align="center">📫 Reach me on</h2>
-<p align="center">
+<h2>📫 Reach me on</h2>
+<p>
   <a target="_blank"href="https://www.linkedin.com/in/neel8/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <!-- <a target="_blank"href="https://twitter.com/ileriayooo"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp; -->
   <a href="mailto:neelakantan.sub@gmail.com?subject=Hello%20Neel,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
@@ -58,4 +58,4 @@ Always open to collaborating on meaningful projects that push boundaries in AI, 
 
 <hr>
 
-<h2  align="center">💻 Check Out My Repos ⬇️ </h2>
+<h2>💻 Check Out My Repos ⬇️ </h2>
