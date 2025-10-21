@@ -18,17 +18,12 @@ My work spans shipping, healthcare, and edtech, where I’ve led engineering tea
 
 I’m passionate about:
 
-Building intelligent and autonomous agent systems
-
-Designing cloud-native, serverless, and event-driven architectures
-
-Leading high-impact engineering teams and driving best practices
-
-Experimenting with AI, distributed systems, and next-gen developer tools
+- Building intelligent and autonomous agent systems
+- Designing cloud-native, serverless, and event-driven architectures
+- Leading high-impact engineering teams and driving best practices
+- Experimenting with AI, distributed systems, and next-gen developer tools
 
 Always open to collaborating on meaningful projects that push boundaries in AI, automation, and system design.
-
-Let’s connect: LinkedIn | Portfolio | yourname@example.com
   </samp>
   <br> <br>
   <img src="https://komarev.com/ghpvc/?username=ileriayo" alt="https://github.com/ileriayo" />
