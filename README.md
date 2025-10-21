@@ -3,11 +3,11 @@
 --->  
 
 <h1 align="center"> 👋 </h1>
-<div align="center" style="background:yellow;color:#333; padding: 15px">
-  <h1> Hi, I'm Neelakantan</h1>
+<div align="center">
+  <!-- <h1> Hi, I'm Neelakantan</h1>
   <h3>Technical Lead,  AI-Driven Solutions</h3>
-  <h2>MERN Stack | AWS | Coud & AI | DevOps</h2>
-  <!-- <img src="https://github.com/Ileriayo/ileriayo/blob/master/images/header.gif" alt="header"/> -->
+  <h2>MERN Stack | AWS Cloud | AI-Integrations | DevOps</h2> -->
+  <img src="https://github.com/NeelakantanS/NeelakantanS/images/header.gif" alt="header"/>
 </div>
 <!-- <p align="center"> (Open for Hiring)</p> -->
 
