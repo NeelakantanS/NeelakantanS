@@ -7,7 +7,7 @@
   <!-- <h1> Hi, I'm Neelakantan</h1>
   <h3>Technical Lead,  AI-Driven Solutions</h3>
   <h2>MERN Stack | AWS Cloud | AI-Integrations | DevOps</h2> -->
-  <img src="https://github.com/NeelakantanS/NeelakantanS/blob/main/images/header.gif" alt="header"/>
+  <img src="https://github.com/NeelakantanS/NeelakantanS/blob/main/images/header1.gif" alt="header"/>
 </div>
 <!-- <p align="center"> (Open for Hiring)</p> -->
 
